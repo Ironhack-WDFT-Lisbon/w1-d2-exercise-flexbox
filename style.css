@@ -4,8 +4,11 @@ body {
 
 .flex-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: blue;
   padding: 20px;
+  height: 800px;
 }
 
 .flex-item {
@@ -32,3 +35,7 @@ body {
 .row {
   flex-direction: row;
 }
+
+/* .column {
+  flex-direction: column;
+} */

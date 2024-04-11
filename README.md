@@ -1,6 +1,6 @@
 # w1-d2-exercise-flexbox
 
-1. Use the flex container and items in the page and align the items to the center of the screen in the main axis
+1. Use the flex container and items in the page and justify the items to the center of the screen in the main axis
 2. Create a new flex container and items and render has a column
 3. Create a new flex container and:
    1. Set the height of the container to 400px more than it has now
